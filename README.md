@@ -14,7 +14,6 @@
 - 🔭 **Currently working on:** [4R-AI](https://github.com/AlexandrRadulescu/4R-AI) — a football highlights & auto-commentary engine, and an autonomous Raspberry Pi/Arduino robot for real-world navigation
 - 💼 **Recently:** Software Engineering Intern (SDR & Full-Stack) at TERMA Group — built **TurbuLent**, a self-hosted ADS-B aircraft-tracking station on a Raspberry Pi 5
 - 🌱 **Currently learning:** AI, robotics, automation, embedded systems, and 3D modelling
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 60 seconds
 
 ---
 ### 🛠️ Tech Stack
