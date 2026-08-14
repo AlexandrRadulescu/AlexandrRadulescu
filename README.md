@@ -28,13 +28,6 @@
 </p>
 
 ---
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandrRadulescu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrRadulescu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
 ### 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandrRadulescu/AlexandrRadulescu/output/github-contribution-grid-snake-dark.svg">
