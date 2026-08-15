@@ -10,7 +10,7 @@
 
 ---
 ### 🚀 About Me
-- 🎓 **Robotics BS student** at Transilvania University of Brașov (Oct 2023 – Jul 2027), 8.79/10 average
+- 🎓 **Robotics BS student** at Transilvania University of Brașov (Oct 2023 – Jul 2027)
 - 🔭 **Currently working on:** [4R-AI](https://github.com/AlexandrRadulescu/4R-AI) — a football highlights & auto-commentary engine, and an autonomous Raspberry Pi/Arduino robot for real-world navigation
 - 💼 **Recently:** Software Engineering Intern (SDR & Full-Stack) at TERMA Group — built **TurbuLent**, a self-hosted ADS-B aircraft-tracking station on a Raspberry Pi 5
 - 🌱 **Currently learning:** AI, robotics, automation, embedded systems, and 3D modelling
